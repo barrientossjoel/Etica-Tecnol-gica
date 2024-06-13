@@ -1,2 +1,2 @@
-# Etica-Tecnol-gica
-Trabajo de Investigación sobre la Etica tecnologica
+# Etica-Tecnologica
+Trabajo de Investigación sobre la Etica tecnológica
